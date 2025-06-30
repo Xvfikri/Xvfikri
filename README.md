@@ -3,9 +3,6 @@
 ![XvFikri](img/header.png)
 
 
-
-
-
 <div align="center">
     <h1 align="center" style="font-size: 25px;">🌐 Socials:</h1>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -36,6 +33,10 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
 
+<img src="https://raw.githubusercontent.com/Xvfikri/Xvfikri/output/snake.svg" alt="Snake animation" />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xvfikri/Xvfikri/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xvfikri/Xvfikri/output/pacman-contribution-graph.svg">
@@ -44,6 +45,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Xvfikri/Xvfikri/output/snake.svg" alt="Snake animation" />
-
-###
