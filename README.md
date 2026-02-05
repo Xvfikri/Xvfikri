@@ -39,8 +39,8 @@
 
 <div align="center">
     <h1 align="center" style="font-size: 25px;">📊 GitHub Stats:</h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xvfikri&theme=gruvbox&hide_border=false" height="150" alt="streak graph"  /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xvfikri&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" alt="top languages"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xvfikri&theme=gruvbox" height="150" alt="streak graph"  /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xvfikri&theme=gruvbox&layout=compact" height="150" alt="top languages"  />
 </div>
 
 ###
